@@ -6,7 +6,7 @@
 
 - [SQL Analysis (Code)](https://github.com/sparshb4tra/OTT-shows-movies-sql-project/blob/1cdbf4b6117e6cd79252851b2b5eb85dc8f86531/SQL_ANALYSIS.sql)
 
-- [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
+- [Datasets Used - kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
 - [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sparsh.batra/viz/NETFLIXDASHBOARD_17219918222970/NETFLIX)
 
