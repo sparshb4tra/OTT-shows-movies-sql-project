@@ -1,5 +1,5 @@
 # <p align="center">OTT-shows-movies-sql-project</p>
-# <p align="center">![Pic](https://postimg.cc/VdNLVqKQ)</p>
+https://postimg.cc/VdNLVqKQ
 
 
 **Tools Used:** Excel, Tableau, Oracle Apex
