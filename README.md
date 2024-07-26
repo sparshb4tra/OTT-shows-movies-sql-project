@@ -90,7 +90,7 @@ Output:
 This query calculates the average runtime and IMDb scores for movies and shows. By analyzing this data, Netflix can determine if longer runtimes correlate with higher or lower IMDb scores, providing insights into viewer preferences. This information can inform decisions on content length for future productions to enhance viewer satisfaction.
 
 
-## 4. Which genres are the most common? 
+## Q4. Which genres are the most common? 
 - Top 10 most common genres for MOVIES
 ```mysql
 SELECT genres, 
