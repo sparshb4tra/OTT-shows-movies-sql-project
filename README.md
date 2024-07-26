@@ -1,7 +1,7 @@
 # <p align="center">OTT-shows-movies-sql-project</p>
-https://postimg.cc/VdNLVqKQ
+# <p align="center">![Pic](https://github.com/sparshb4tra/OTT-shows-movies-sql-project/blob/42b382e387c91d357bc90ac128d52a5d7bd0c1cb/group-friends-watching-tv-sport-match-together-emotional-fans-cheering-favourite-team-watching-exciting-football-concept-friendship-leisure-activity-emotions.jpg)</p>
 
-
+https://github.com/sparshb4tra/OTT-shows-movies-sql-project/blob/42b382e387c91d357bc90ac128d52a5d7bd0c1cb/group-friends-watching-tv-sport-match-together-emotional-fans-cheering-favourite-team-watching-exciting-football-concept-friendship-leisure-activity-emotions.jpg
 **Tools Used:** Excel, Tableau, Oracle Apex
 
 [SQL Analysis (Code)](url)
