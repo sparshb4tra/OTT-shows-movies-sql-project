@@ -1,5 +1,5 @@
 # <p align="center">OTT-shows-movies-sql-project</p>
-# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg](https://www.freepik.com/free-photo/group-friends-watching-tv-sport-match-together-emotional-fans-cheering-favourite-team-watching-exciting-football-concept-friendship-leisure-activity-emotions_15481583.htm#fromView=search&page=1&position=9&uuid=83fd0038-e9be-49e2-86c9-6142516e9ac3)</p>
+# <p align="center">![Pic](https://postimg.cc/VdNLVqKQ)</p>
 
 
 **Tools Used:** Excel, Tableau, Oracle Apex
