@@ -8,7 +8,7 @@
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[Netflix Dashboard - Tableau]([https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1](https://public.tableau.com/app/profile/sparsh.batra/viz/NETFLIXDASHBOARD_17219918222970/NETFLIX))
+[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sparsh.batra/viz/NETFLIXDASHBOARD_17219918222970/NETFLIX)
 
 
 
