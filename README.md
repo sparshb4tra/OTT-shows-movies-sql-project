@@ -2,13 +2,14 @@
 # <p align="center">![Pic](https://github.com/sparshb4tra/OTT-shows-movies-sql-project/blob/42b382e387c91d357bc90ac128d52a5d7bd0c1cb/group-friends-watching-tv-sport-match-together-emotional-fans-cheering-favourite-team-watching-exciting-football-concept-friendship-leisure-activity-emotions.jpg)</p>
 
 
+## Live Demo
+[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sparsh.batra/viz/NETFLIXDASHBOARD_17219918222970/NETFLIX)
+
 ## **Tools Used:** Excel, Tableau, Oracle Apex
 
 - [SQL Analysis (Code)](https://github.com/sparshb4tra/OTT-shows-movies-sql-project/blob/1cdbf4b6117e6cd79252851b2b5eb85dc8f86531/SQL_ANALYSIS.sql)
 
 - [Datasets Used - kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
-
-- [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sparsh.batra/viz/NETFLIXDASHBOARD_17219918222970/NETFLIX)
 
 
 
